@@ -1,0 +1,21 @@
+# Java build
+target/
+*.class
+
+# Maven & Logs
+*.log
+*.tmp
+
+# IDE & OS files
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Reports
+/allure-report/
+/extent-report/
+/test-output/
+
+# Postman envs
+*.postman_environment.json
