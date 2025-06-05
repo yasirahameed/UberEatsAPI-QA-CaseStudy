@@ -1,0 +1,27 @@
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Reports
+/allure-report/
+/extent-report/
+
+# Java build files
+*.class
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
